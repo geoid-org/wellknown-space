@@ -7,27 +7,27 @@
 </header>
 <br/>
 <div align="center">
-  <a href="https://github.com/geoid-org/space-txt/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
+  <a href="https://github.com/geoid-org/wellknown-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
-  <a href="https://github.com/geoid-org/space-txt/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
+  <a href="https://github.com/geoid-org/wellknown-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
   |
-  <a href="https://github.com/geoid-org/space-txt/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
+  <a href="https://github.com/geoid-org/wellknown-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
   |
-  <a href="https://github.com/geoid-org/space-txt/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
+  <a href="https://github.com/geoid-org/wellknown-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
   |
-  <a href="https://github.com/geoid-org/space-txt/discussions">Start a Discussion</a>
+  <a href="https://github.com/geoid-org/wellknown-space/discussions">Start a Discussion</a>
 </div>
 <br/>
 <div align="center">
 
-  [![license](https://img.shields.io/github/license/geoid-org/space-txt?color=green&label=license&style=flat-square)](LICENSE.md)
+  [![license](https://img.shields.io/github/license/geoid-org/wellknown-space?color=green&label=license&style=flat-square)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.wellknwon.space)](https://www.wellknwon.space)
 
-  ![stars](https://img.shields.io/github/stars/geoid-org/space-txt?color=blue&label=stars&style=flat-square)
-  ![forks](https://img.shields.io/github/forks/geoid-org/space-txt?color=blue&label=forks&style=flat-square)
-  ![downloads](https://img.shields.io/github/downloads/geoid-org/space-txt/total?color=blue&label=downloads&style=flat-square)
+  ![stars](https://img.shields.io/github/stars/geoid-org/wellknown-space?color=blue&label=stars&style=flat-square)
+  ![forks](https://img.shields.io/github/forks/geoid-org/wellknown-space?color=blue&label=forks&style=flat-square)
+  ![downloads](https://img.shields.io/github/downloads/geoid-org/wellknown-space/total?color=blue&label=downloads&style=flat-square)
   ![sponsors](https://img.shields.io/github/sponsors/geoid-org?color=blue&label=sponsors&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/geoid-org/space-txt?color=blue&label=contributors&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/geoid-org/wellknown-space?color=blue&label=contributors&style=flat-square)
   
 </div>
 <br/>
@@ -45,7 +45,7 @@
 
 ## About
 
-**`space.txt`** is a proposed standard which allows websites to their location.
+**`space.txt`** is a proposed standard which allows spatially enabled websites and applications to communicate their location.
 
 
 ## Quick Start
