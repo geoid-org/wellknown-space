@@ -98,7 +98,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-6FEJJ20F68
+    property: G-JLGRGZT0P8
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.geoid.org

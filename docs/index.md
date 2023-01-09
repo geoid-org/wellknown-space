@@ -1,33 +1,25 @@
 <header>
-<p align="center">
-    <img src="assets/image/spacetxt_logo_dark.png" width="20%" height="20%" alt="space.txt Logo">
-</p>
-<h1 align='center' style='border-bottom: none;'>space.txt</h1>
-<h3 align='center'>A .txt file for a Sustainable Internet.</h3>
+  <p align="center">
+    <img src="assets/image/logo_dark.png" width="20%" height="20%" alt="Geoid Logo">
+  </p>
+  <h1 align='center' style='border-bottom: none;'>space.txt</h1>
+  <h3 align='center'>A well-known .txt file for spatial identification.</h3>
 </header>
 <br/>
 
 
-> “The Internet is the single biggest thing we’re going to build as a species. This is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.”
->
-> — Gary Cook, Greenpeace
+---
+
+
+**`space.txt`** is a proposed standard which allows spatially enabled websites and applications to communicate their location.
 
 
 ---
 
 
-**`space.txt`** is a standard for a text file which allows websites to define environmental sustainability policies. The `space.txt` file standard sets clear guidelines through which both environmental researchers and the general public can assess the environmental footprint of a certain website and of the entity that controls it.
+**`space.txt`** is an open-source project by **[Geoid](https://www.geoid.org "Geoid website")**.
 
+**Geoid is a spatial operating system that covers our entire planet with an extended intelligent dimension.**
+This self-organizing network bridges our virtual and physical environments and is formed by all the people of our planet and the information and communication technologies that connect them. Geoid functions as a nervous system that mediates the data we produce and use in our daily lives, adds value to interconnectivity and cherishes spontaneous connections between people and the places and things they love.
 
----
-
-
-> “The struggle to understand and steer the interaction between the bitsphere and the biosphere is the struggle for community in the broadest ecological context.”
->
-> — Ursula M. Franklin, The Real World of Technology (1989)
-
-
----
-
-
-**`space.txt`** is an open-source project by the [Scape Foundation](https://www.scape.foundation "Scape Foundation website").
+website: [www.geoid.org](https://www.geoid.org "Geoid website")

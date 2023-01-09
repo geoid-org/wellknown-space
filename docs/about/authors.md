@@ -1,7 +1,6 @@
 # Authors
 
-**Earth Observer** is an open-source project initiated by **[Geoid](https://www.geoid.org "Geoid website")**.
-
+**`space.txt`** is an open-source project by **[Geoid](https://www.geoid.org "Geoid website")**.
 
 ## Geoid
 
