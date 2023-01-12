@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+     draft-rfcxml-general-template-annotated-00
+  
+     This template includes examples of most of the features of RFCXML with comments explaining 
+     how to customise them, and examples of how to achieve specific formatting.
+     
+     Documentation is at https://authors.ietf.org/en/templates-and-schemas
+-->
+<?xml-model href="rfc7991bis.rnc"?>  <!-- Required for schema validation and schema-aware editing -->
+<!-- <?xml-stylesheet type="text/xsl" href="rfc2629.xslt" ?> --> 
+<!-- This third-party XSLT can be enabled for direct transformations in XML processors, including most browsers -->
+
+<!DOCTYPE rfc [
+  <!ENTITY nbsp    "&#160;">
+  <!ENTITY zwsp   "&#8203;">
+  <!ENTITY nbhy   "&#8209;">
+  <!ENTITY wj     "&#8288;">
+]>
+<!-- If further character entities are required then they should be added to the DOCTYPE above.
+     Use of an external entity file is not recommended. -->
+
+<rfc
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  category="info"
+  docName="draft-rfcxml-general-template-annotated-00"
+  ipr="trust200902"
+  obsoletes=""
+  updates=""
+  submissionType="IETF"
+  xml:lang="en"
+  version="3">
+<!-- 
+    * docName should be the name of your draft
+    * category should be one of std, bcp, info, exp, historic
+    * ipr should be one of trust200902, noModificationTrust200902, noDerivativesTrust200902, pre5378Trust200902
+    * updates can be an RFC number as NNNN
+    * obsoletes can be an RFC number as NNNN 
+-->
+  
+  {% include "_front.xml.jinja" %}
+
+  {% include "_middle.xml.jinja" %}
+
+  {% include "_back.xml.jinja" %}
+
+</rfc>
