@@ -1,0 +1,54 @@
+<front>
+  <title abbrev="Abbreviated Title">Title</title> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#title-4 -->
+  <!--  The abbreviated title is required if the full title is longer than 39 characters -->
+
+  <seriesInfo name="Internet-Draft" value="draft-rfcxml-general-template-annotated-00"/> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#seriesinfo -->
+  <!-- Set value to the name of the draft  -->
+  
+  <author fullname="Author's Full Name" initials="Author's Initials" role="editor" surname="Author's Surname"> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#author -->
+  <!-- initials should not include an initial for the surname -->
+  <!-- role="editor" is optional -->
+  <!-- Can have more than one author -->
+    
+  <!-- all of the following elements are optional -->
+    <organization>Organization</organization> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#organization -->
+    <address> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#address -->
+      <postal>
+        <!-- Reorder these if your country does things differently -->
+        <street>Street</street>
+        <city>City</city>
+        <region>Region</region>
+        <code>Postal code</code>
+        <country>Country</country>
+        <!-- Can use two letter country code -->
+      </postal>        
+      <phone>Phone</phone>
+      <email>Email</email>  
+      <!-- Can have more than one <email> element -->
+      <uri>URI</uri>
+    </address>
+  </author>
+  
+  <date year="2022" month="3" day="1"/> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#date -->
+  <!-- On draft subbmission:
+        * If only the current year is specified, the current day and month will be used.
+        * If the month and year are both specified and are the current ones, the current day will
+          be used
+        * If the year is not the current one, it is necessary to specify at least a month and day="1" will be used.
+  -->
+
+  <area>General</area>
+  <workgroup>Internet Engineering Task Force</workgroup>
+  <!-- "Internet Engineering Task Force" is fine for individual submissions.  If this element is 
+        not present, the default is "Network Working Group", which is used by the RFC Editor as 
+        a nod to the history of the RFC Series. -->
+  
+  <keyword>template</keyword>
+  <!-- Multiple keywords are allowed.  Keywords are incorporated into HTML output files for 
+        use by search engines. -->
+
+  <abstract>
+    <t>Abstract</t>
+  </abstract>
+
+</front>
